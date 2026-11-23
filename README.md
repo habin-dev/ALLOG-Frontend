@@ -1,3 +1,14 @@
+> 📌 **원본 저장소**: [Minimin0/ALLOG-Frontend](https://github.com/Minimin0/ALLOG-Frontend) · 멋쟁이사자처럼 해커톤 팀 프로젝트를 포트폴리오용으로 가져온 저장소입니다.
+>
+> 🙋 **내 역할 (장하빈)**: 백엔드 담당으로 앱 ↔ 서버 연동 문제 해결과 프론트 리팩터링 지원
+> - Firebase app·auth 모듈을 하나의 인스턴스로 맞춰 인증 오류 수정
+> - 서버가 파싱할 수 있는 형식으로 생년월일을 보내도록 수정
+> - 보유하지 않은 포인트·하트를 앱이 먼저 차감하던 버그 수정 (서버 기준 잔액으로 통일)
+> - 하드코딩된 색상값을 디자인 토큰(`theme.js`)으로 통합하고 레거시 코드 정리
+> - 백엔드 URL·Firebase 환경 변수 사용법 문서화
+
+---
+
 # ALLOG Frontend
 ALLOG is an Android-first React Native and Expo Router wellness group client.
 ## Repository Links
